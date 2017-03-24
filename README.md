@@ -1,4 +1,5 @@
-# Viro Code Samples
+# [DEPRECATED/UNMAINTAINED] Viro Code Samples
+### Code samples and issues on Viro platform have moved to a new repo - [Viro](https://github.com/viromedia/viro)
 
 This project contains various sample Viro projects.
 
