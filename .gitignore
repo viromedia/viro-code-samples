@@ -1,9 +1,0 @@
-.DS_Store
-*.DS_Store
-*npm-debug.log
-node_modules/
-ios/Podfile.lock
-ios/Pods/
-ios/ViroCodeSamples.xcworkspace/xcuserdata/
-ios/ViroCodeSamples.xcodeproj/xcuserdata/
-ngrok.log
